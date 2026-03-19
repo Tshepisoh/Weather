@@ -1,3 +1,4 @@
+import logo from "./logo.svg";
 import "./App.css";
 import fetchWeather from "./api/fetchWeather";
 import React from "react";
